@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699359598721",
+    "project_id": "speennween",
+    "storage_bucket": "speennween.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699359598721:android:dd6bc007dc9213d9a79580",
+        "android_client_info": {
+          "package_name": "com.example.speen_n_ween"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtyXK4oKZV09RALr_3rm1cXW1rgkZG8Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
